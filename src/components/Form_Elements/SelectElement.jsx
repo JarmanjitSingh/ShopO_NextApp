@@ -21,7 +21,7 @@ const SelectElement = () => {
       startContent={<Avatar alt="Venezuela" className="w-6 h-6" src="https://flagcdn.com/ve.svg" />}
     > 
       Venezuela
-    </SelectItem>
+    </SelectItem> 
     <SelectItem
       key="brazil"
       startContent={<Avatar alt="Brazil" className="w-6 h-6" src="https://flagcdn.com/br.svg" />}
