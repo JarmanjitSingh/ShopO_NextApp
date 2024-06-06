@@ -40,7 +40,7 @@ const SelectElement = () => {
       key="germany"
       startContent={<Avatar alt="Germany" className="w-6 h-6" src="https://flagcdn.com/de.svg" />}
     >
-      Germany
+      German
     </SelectItem>
     <SelectItem
       key="spain"
