@@ -34,7 +34,7 @@ const SelectElement = () => {
         <Avatar alt="Switzerland" className="w-6 h-6" src="https://flagcdn.com/ch.svg" />
       }
     >
-      Switzerland
+      Punjab
     </SelectItem>
     <SelectItem
       key="germany"
